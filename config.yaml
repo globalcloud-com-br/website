@@ -1,4 +1,4 @@
-baseURL: http://globalcloud.com.br/
+baseURL: https://globalcloud.netlify.com
 languageCode: pt-br
 title: GlobalCloud
 theme: hugo-fresh
